@@ -2,6 +2,11 @@
 
 FileLight is a single-file PHP directory browser with a modern UI. It brings grid/list views, dark mode, inline descriptions, search, and admin-only editing without any external dependencies beyond PHP and a Bootstrap Icons CDN include.
 
+<p align="center">
+  <img src="images/filelight-dark.jpg" width="45%" alt="Dark mode">
+  <img src="images/filelight-light.jpg" width="45%" alt="Light mode">
+</p>
+
 ## Features
 - Clean list + grid views with persistent dark/light theme toggle
 - Breadcrumb navigation, search, and sortable columns (name, description, type, size, date)
